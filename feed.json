@@ -1,0 +1,26 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Eddie Dickey",
+	"icon": "https://micro.blog/eddie58/avatar.jpg",
+	"home_page_url": "https://logicalpath.org/",
+	"feed_url": "https://logicalpath.org/feed.json",
+	"items": [
+		
+			{
+				"id": "http://eddie58.micro.blog/2025/05/05/haightspring.html",
+				"title": "HaightSpring2025",
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<h1>Haight Ashbury Street Art - Spring 2025</h1>\n\n<figure>\n<img src=\"uploads/2025/haightashbury.jpeg\" alt=\"\" />\n</figure>\n",
+				"date_published": "2025-05-05T15:32:12-07:00",
+				"url": "https://logicalpath.org/2025/05/05/haightspring.html"
+			},
+			{
+				"id": "http://eddie58.micro.blog/2025/04/06/hands-off-san-rafael-ca.html",
+				
+				"content_html": "<p>Hands Off! San Rafael, CA April 5, 2025 This picture pretty much sums it up.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Hands Off! San Rafael, CA April 5, 2025 This picture pretty much sums it up.\r\n\r\n\n\n<img src=\"uploads/2025/img-0342.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-04-06T20:54:45-07:00",
+				"url": "https://logicalpath.org/2025/04/06/hands-off-san-rafael-ca.html"
+			}
+	]
+}
