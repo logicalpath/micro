@@ -7,20 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://eddie58.micro.blog/2025/06/14/no-kings-peaceful-protest-larkspur.html",
+				
+				"content_html": "<p>No Kings peaceful protest. Larkspur, CA</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "No Kings peaceful protest. Larkspur, CA\n\n\n\n<img src=\"uploads/2025/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2025-06-14T13:57:24-07:00",
+				"url": "https://logicalpath.org/2025/06/14/no-kings-peaceful-protest-larkspur.html"
+			},
+			{
 				"id": "http://eddie58.micro.blog/2025/05/05/haightspring.html",
-				"title": "HaightSpring2025",
-				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<h1>Haight Ashbury Street Art - Spring 2025</h1>\n\n<figure>\n<img src=\"uploads/2025/haightashbury.jpeg\" alt=\"\" />\n</figure>\n",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p><strong>Street Art (literally)</strong></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "<h1>Haight Ashbury - Spring 2025</h1>\n\n**Street Art (literally)**\n\n<figure>\n<img src=\"uploads/2025/haightashbury.jpeg\" alt=\"\" />\n</figure>\n",
 				"date_published": "2025-05-05T15:32:12-07:00",
-				"url": "https://logicalpath.org/2025/05/05/haightspring.html"
+				"url": "https://logicalpath.org/2025/05/05/haightspring.html",
+				"tags": ["Urban","Art","San Francisco"]
 			},
 			{
 				"id": "http://eddie58.micro.blog/2025/04/06/hands-off-san-rafael-ca.html",
 				
-				"content_html": "<p>Hands Off! San Rafael, CA April 5, 2025 This picture pretty much sums it up.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hands Off! San Rafael, CA April 5, 2025 This picture pretty much sums it up.\r\n\r\n\n\n<img src=\"uploads/2025/img-0342.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p><strong>This picture pretty much sums it up.</strong></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "<H1>Hands Off! San Rafael, CA April 5, 2025 </H1>\n\n**This picture pretty much sums it up.**\n\n\n\n<img src=\"uploads/2025/img-0342.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-04-06T20:54:45-07:00",
-				"url": "https://logicalpath.org/2025/04/06/hands-off-san-rafael-ca.html"
+				"url": "https://logicalpath.org/2025/04/06/hands-off-san-rafael-ca.html",
+				"tags": ["Democracy"]
 			}
 	]
 }
